@@ -26,7 +26,7 @@ interface IOrderFormContacts {
 }
 
 // Интерфейс успешной отправки заказа
-interface ISucessOrder {
+interface ISuccessOrder {
   id: string;
   total: number;
 }
